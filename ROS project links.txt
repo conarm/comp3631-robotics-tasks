@@ -1,0 +1,13 @@
+
+1. create a public GitHub repo of your own. Then, push your code to it. This will make a .git link available to share.
+
+PUT YOUR LINK HERE
+
+
+2. Upload your video to your uni OneDrive. This will also make a link available to share.
+
+PUT YOUR LINK HERE
+
+
+
+NOTE: make sure both links are accessible to anyone with the links.
